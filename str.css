@@ -1,0 +1,43 @@
+@media screen and (max-width: 750px){
+    .naveg{
+        grid-template-columns: 250px 700px;
+    }
+    .logo{
+        margin-left: 10px;
+    }
+    .menu{
+        margin-left: 50px;
+    }
+    .menu a{
+        font-size: 25px;
+    }
+
+    .ct{
+        margin-left: 220px;
+    }
+    .tit{
+        width: 1000px;
+    }
+
+    .trab{
+        grid-template-columns: 850px;
+        grid-template-rows: 500px 500px; 
+        width: 850px;
+    }
+    .trab2{
+        grid-template-columns: 850px;
+        grid-template-rows: 500px 500px; 
+        width: 850px;
+        display: grid;
+    }
+    #inver{
+        display: none;
+    }
+
+    .cl{
+        margin-left: 550px;
+    }
+    footer{
+        width: 1100px;       
+    }
+}
